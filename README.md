@@ -1,5 +1,11 @@
 # Deep Learning School — Reading Group 
 
+
+<div align="center">
+  <img src="images/dls.png">
+</div>
+
+
 ## Хотите прочитать или прослушать открытую лекцию на свою тему? 
 
 Тогда заполните форму: https://forms.gle/39FiPJP29LFz4ZGeA
