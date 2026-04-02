@@ -15,7 +15,7 @@
 
 | Lecture Title | Lecturer | Date | Video |  Tags  | Attachments |
 |--------------|-----------|------|-------------|-------------------|-------------------|
-| Авторегрессионная Генерация Изображений| Дмитрий Баранчук  | 02.04.2026     |    |   `Diffusion` `CV` `Generation` | |
+| Авторегрессионная Генерация Изображений| Дмитрий Баранчук  | 02.04.2026     | [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239358?list=ln-jeFMxbhVepQZSxa7iY)   |   `Diffusion` `CV` `Generation` | |
 | LLM-агенты | Юрий Яровиков  | 19.12.2025     |     [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/fVh5YFW95cs?si=sjh97Nc-bKIh8Fdg) [![Watch on VK](icons/vk.svg)](https://vk.com/video-155161349_456239353)  |   `LLM` `Agents` `NLP` | [📊 Презентация](https://drive.google.com/file/d/1XBvDo_iLs-rs1IzvMgy3ZROE9cYcPSuH/view?usp=sharing) и  [</> Код](https://github.com/yu-rovikov/chess-agent)    |
 | Задача Интерактивной Сегментации | Антон Антонов  | 27.11.2025     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/OqSXyJjgKak) [![Watch on VK](icons/vk.svg)](https://vk.com/video-155161349_456239342)     |   `CV` `Segmentation` | [📊 Презентация](https://docs.google.com/presentation/d/1OZjzsJvjcvVL88JEtJWqfhLMh4HPekTxkG-w0_N5Fjc/edit?usp=sharing)        |
 | Геоаналитика и GeoAI | Мария Эрцеговац  | 21.08.2025     |    [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/3PHvqdIE8JE)  [![Watch on VK](icons/vk.svg)](https://vk.com/video-155161349_456239306)    | `ML for Natural Sciences` |     [📊 Презентация](https://drive.google.com/file/d/1kwuT3kGNI01NPna18NGd4wRwKN4HLR-K/view?usp=sharing)           |
