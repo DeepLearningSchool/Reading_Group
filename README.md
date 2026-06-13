@@ -1,9 +1,11 @@
 # Deep Learning School — Reading Group 
 
+![Projects](https://img.shields.io/badge/Всего%20открытых%20лекций-12-blue)
 
 <div align="center">
   <img src="images/dls.png">
 </div>
+
 
 
 
