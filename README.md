@@ -1,6 +1,6 @@
 # Deep Learning School — Reading Group 
 
-![Projects](https://img.shields.io/badge/Всего%20открытых%20лекций-12-blue)
+![Projects](https://img.shields.io/badge/Всего%20открытых%20лекций-13-blue)
 
 <div align="center">
   <img src="images/dls.png">
@@ -17,6 +17,7 @@
 
 | Lecture Title | Lecturer | Date | Video |  Tags  | Attachments |
 |--------------|-----------|------|-------------|-------------------|-------------------|
+| Альтернативные архитектуры LLM |  Валентин Малых | 01.10.2026     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/pjyAxnwL4nQ) [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239397)   | `LLM` `NLP` | 
 | Применение RL в Математике, CayleyPy | Александр Червов | 16.04.2026     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/NYW1PYBvie8) [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239360?list=ln-UnZjH2ruCxSBEoSXqc)   |   `RL` `ML for Science` `Mathematics` | [📊 Презентация](https://drive.google.com/file/d/1Fv8gAF_U6ygaBNPJqMi8qiN-yzldpeeL/view?usp=sharing) |
 | Авторегрессионная Генерация Изображений| Дмитрий Баранчук  | 02.04.2026     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/PCf5QNfwL2s) [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239358?list=ln-jeFMxbhVepQZSxa7iY)   |   `Diffusion` `CV` `Generation` | [📊 Презентация](https://drive.google.com/file/d/1t2ojSbWPe4C2iwfTxLKnQ3V79hlsb2BL/view?usp=sharing) |
 | LLM-агенты | Юрий Яровиков  | 19.12.2025     |     [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/fVh5YFW95cs?si=sjh97Nc-bKIh8Fdg) [![Watch on VK](icons/vk.svg)](https://vk.com/video-155161349_456239353)  |   `LLM` `Agents` `NLP` | [📊 Презентация](https://drive.google.com/file/d/1XBvDo_iLs-rs1IzvMgy3ZROE9cYcPSuH/view?usp=sharing) и  [</> Код](https://github.com/yu-rovikov/chess-agent)    |
