@@ -6,9 +6,6 @@
   <img src="images/dls.png">
 </div>
 
-
-
-
 ## Хотите прочитать или прослушать открытую лекцию на свою тему? 
 
 👉 Тогда заполните форму: https://forms.gle/39FiPJP29LFz4ZGeA
@@ -17,6 +14,7 @@
 
 | Lecture Title | Lecturer | Date | Video |  Tags  | Attachments |
 |--------------|-----------|------|-------------|-------------------|-------------------|
+| Прагматичный подход к галлюцинациям LLM |  Алексей Зайцев | 15.10.2026     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/kwTbZJcXIek) [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239406)   | `LLM` `Uncertainty Quantification` `Hallucinations` | [📊 Презентация](https://github.com/DeepLearningSchool/Reading_Group/blob/main/presentations/LLM%20Hallucinations.pdf)
 | Альтернативные архитектуры LLM |  Валентин Малых | 01.10.2026     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/pjyAxnwL4nQ) [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239397)   | `LLM` `NLP` | [📊 Презентация](https://github.com/DeepLearningSchool/Reading_Group/blob/main/presentations/Alternative%20LLMs.pdf) | 
 | Применение RL в Математике, CayleyPy | Александр Червов | 16.04.2026     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/NYW1PYBvie8) [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239360?list=ln-UnZjH2ruCxSBEoSXqc)   |   `RL` `ML for Science` `Mathematics` | [📊 Презентация](https://drive.google.com/file/d/1Fv8gAF_U6ygaBNPJqMi8qiN-yzldpeeL/view?usp=sharing) |
 | Авторегрессионная Генерация Изображений| Дмитрий Баранчук  | 02.04.2026     | [![Watch on YouTube](icons/youtube.svg)](https://youtu.be/PCf5QNfwL2s) [![Watch on VK](icons/vk.svg)](https://vkvideo.ru/video-155161349_456239358?list=ln-jeFMxbhVepQZSxa7iY)   |   `Diffusion` `CV` `Generation` | [📊 Презентация](https://drive.google.com/file/d/1t2ojSbWPe4C2iwfTxLKnQ3V79hlsb2BL/view?usp=sharing) |
